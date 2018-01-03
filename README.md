@@ -1,5 +1,7 @@
 # ReduxDemo
 
+A Redux demo for angular 5+. This project is based on [The Complete Angular Course: Beginner to Advanced](https://www.udemy.com/the-complete-angular-master-class/learn/v4/overview) - Redux section.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
 ## Development server
